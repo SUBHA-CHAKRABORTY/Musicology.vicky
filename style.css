@@ -1,0 +1,674 @@
+body {
+    overflow-x: hidden;
+    margin: 0px;
+}
+
+#nav-bar-body {
+    height: 102px;
+    background-color: #303030 !important;
+    margin: 0;
+}
+
+.navbar-brand img {
+    margin-left: 79px;
+    margin-right: 261px;
+}
+
+/* .navbar-nav ul li a{
+    color: #e3e3e3;
+    font-size: 25px;
+} */
+#navbar-home {
+    color: #e3e3e3;
+    font-size: 25px;
+    padding-right: 52px;
+    font-family: 'Oswald', sans-serif;
+    padding-right: 60px;
+}
+
+#navbar-PRODUCT {
+    color: #e3e3e3;
+    font-size: 25px;
+    padding-right: 66px;
+}
+
+#navbar-PROMO {
+    color: #e3e3e3;
+    font-size: 25px;
+    padding-right: 53px;
+}
+
+#navbar-ABOUT {
+    color: #e3e3e3;
+    font-size: 25px;
+    padding-right: 51px;
+}
+
+.fa-magnifying-glass {
+    color: white;
+    font-size: 31px;
+    padding-right: 177px;
+    padding-left: 75px;
+    padding-top: 10px;
+
+}
+
+.nav-link {
+    color: #e3e3e3;
+    font-size: 25px;
+    padding-right: 52px;
+    font-family: 'Oswald', sans-serif;
+}
+
+/* .nav-item a{
+    color: #e3e3e3;
+
+} */
+
+
+#banner {
+
+    height: 797px;
+    background-image: url(Place\ Your\ Image\ Here\ \(Double\ Click\ to\ Edit\).png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.profile {
+    padding-top: 230px;
+    padding-left: 80px;
+}
+
+.heading {
+    font-size: 124.63px;
+    color: #ffffff;
+}
+
+.heading-descriptions {
+    font-size: 29.72px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    width: 633px;
+}
+
+.registra-now {
+    width: 322px;
+    height: 66px;
+    background-color: #e8631c;
+    font-family: 'Oswald', sans-serif;
+    font-size: 29.17px;
+    border: none;
+    color: white;
+
+}
+
+
+/* dance ture section */
+
+#orange-background {
+    background-color: #e8631c;
+    height: 963px;
+    background-image: url(Design.png);
+    background-repeat: no-repeat;
+    background-size: 60% 100%;
+    text-align: center;
+}
+
+.tour-headline {
+    padding-top: 118px;
+    text-align: center;
+    color: #ffffff;
+
+}
+
+.dance-tour {
+    font-family: 'Oswald', sans-serif;
+    font-size: 75px;
+    color: #ffffff;
+    padding-top: 118px;
+
+}
+
+.dance-tour-detailes {
+    font-size: 29.72px;
+    width: 100%;
+    color: #ffffff;
+}
+
+
+#card-group {
+    margin-top: 43px;
+}
+
+.card-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.CARD {
+    width: 372PX;
+    height: 494PX;
+    padding-left: 66PX;
+    justify-self: center;
+
+
+}
+
+#card1 {
+    width: 373px;
+    height: 493px;
+    margin-left: 100px;
+    margin-right: 60px;
+    background-color: #303030;
+}
+
+#card2 {
+    width: 373px;
+    height: 493px;
+    /* margin-left: 100px; */
+    margin-right: 60px;
+    background-color: #303030;
+
+}
+
+#card3 {
+    width: 373px;
+    height: 493px;
+    margin-right: 100px;
+    background-color: #303030;
+}
+
+.card img {
+    width: 100%;
+}
+
+#AMERICA {
+    font-size: 36px;
+    color: #ffffff;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+#Lorem {
+    color: #ffffff;
+    width: 90%;
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 36PX;
+
+}
+
+
+/* pricing section */
+
+#pricing {
+    background-color: #303030;
+    height: auto;
+    background-image: url(Shape.png), url(Shape2.png);
+    background-position-x: 0px, 870px;
+    background-position-y: 0px, right;
+    background-repeat: no-repeat, no-repeat;
+    padding-bottom: 30px;
+}
+
+.pricing-detles {
+    /* margin: 0px; */
+    text-align: center;
+    padding-top: 117px;
+}
+
+.price-head {
+    font-family: 'Oswald', sans-serif;
+    font-size: 75px;
+    color: #e3e3e3;
+}
+
+.DESCRIPTION {
+    font-family: 'Montserrat', sans-serif;
+    color: #e3e3e3;
+    font-size: 29.72px;
+    padding-bottom: 87px;
+
+}
+
+#price1 {
+    width: 372px;
+    /* height: 493px; */
+
+    height: auto;
+    margin-left: 60px;
+    margin-right: 60px;
+    background-color: #e8631c;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5PX;
+
+}
+
+#card-group {
+    padding: 0px;
+}
+
+#price1 img {
+    width: 113px;
+    height: 140px;
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-top: 62px;
+
+    /* margin: auto;
+    padding-top:62px; */
+}
+
+#BASIC {
+    font-family: 'Oswald', sans-serif;
+    color: #ffffff;
+    font-size: 36.95px;
+    /* padding-top: 50PX; */
+    padding-bottom: 37px;
+    margin: 0px;
+}
+
+#Loremipsome {
+    color: #ffffff;
+    width: 90%;
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 36PX;
+}
+
+.black {
+    width: 323px;
+    height: 65px;
+    /* padding: 80.75px; */
+    background-color: #303030;
+    border: none;
+    color: #e3e3e3;
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    margin-bottom: 27px;
+
+}
+
+/* .background-image{
+    background-image: url(../images/Shape2.png);
+    background-repeat: no-repeat;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    padding-top: 36px;
+
+}
+.img img{
+    width:100%;
+}
+.amazing-detailes{
+    background-color: #e8631c;
+} */
+
+#images {
+    /* background-image: url(../images/Place\ Your\ Image\ Here\ \(Double\ Click\ to\ Edit\)\ 2\ dance.png); */
+    background-image: url(1d.png);
+    background-size: 100% 100%;
+    height: 962px;
+    background-repeat: no-repeat;
+}
+
+#amazing-container {
+    background-color: #e8631c;
+    background-image: url(Shape2.png);
+    background-position-y: -670px;
+    background-position-x: 830px;
+    background-repeat: no-repeat;
+}
+
+.detailes-head {
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+    padding-top: 330px;
+    padding-left: 60px;
+    /* text-align: left; */
+}
+
+.amazing-descriptions {
+    font-size: 29.72PX;
+    color: #e3e3e3;
+
+}
+
+.amazing-dance {
+    font-size: 75PX;
+    color: #e3e3e3;
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'Montserrat', sans-serif;
+
+
+
+}
+
+.read-more {
+    width: 332px;
+    background-color: #303030;
+    height: 66px;
+    border: none;
+    color: #e3e3e3;
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+    margin-top: 68px;
+}
+
+.button-readmore {
+    text-align: left !important;
+}
+
+#detailes-amazing {
+    padding: 0px;
+}
+
+.background-images-bottom {
+    background-image: url(Shape3.png);
+    height: 220px;
+    background-position-x: right;
+    background-position-y: -360px;
+    background-repeat: no-repeat;
+}
+
+
+#best-dance-descriptions {
+
+    background-image: url(Shape4.png);
+    /* height: 200px; */
+    background-repeat: no-repeat;
+    background-position-x: left;
+    background-position-y: 476px;
+    background-color: #e8631c;
+    /* width: 720px; */
+}
+
+#best-dance-image {
+    background-image: url(best\ dance.png);
+    background-repeat: repeat;
+    background-size: 100% 100%;
+    height: 966px;
+    padding: 0px;
+}
+
+.best-dance-description {
+    padding-top: 336px;
+    padding-left: 78px;
+
+}
+
+.best-dance-headline {
+    font-size: 75px;
+    font-family: 'Montserrat', sans-serif;
+    color: #e3e3e3;
+}
+
+.dance-detsiles {
+    font-size: 29.72px;
+    color: #e3e3e3;
+}
+
+.read-more-sd{
+    width: 332px;
+    background-color: #303030;
+    height: 66px;
+    border: none;
+    color: #e3e3e3;
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+    margin-top: 68px;
+
+}
+
+
+/* #best-dance{
+    background-image: url(../images/Shape4.png);
+    height: 200px;
+    background-repeat: repeat-y;
+    background-position-x:left;
+    background-position-y:-100px;
+} */
+/* .bottom-image{
+    background-image: url(../images/Shape4.png);
+    height: 200px;
+    background-repeat: repeat-y;
+    background-position-x:left;
+    background-position-y:-300px ;
+} */
+
+
+
+/* our statistics */
+
+
+
+#our-statistics {
+    padding: 0px;
+}
+
+.our-statistics-descriptions-div {
+    background-color: #303030;
+    color: #e3e3e3;
+    height: 974px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.our-statistics-descriptions {
+    text-align: center;
+
+}
+
+.our-statistics-headline {
+    font-size: 75px;
+    font-family: 'Oswald', sans-serif;
+    padding-top: 206px;
+    padding-bottom: 60px;
+    margin: 0px;
+
+
+}
+
+.our-statistics-detailes {
+    font-size: 29.72px;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+
+
+
+}
+
+.castomer-detailes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    padding-top: 190px;
+}
+
+.numbers {
+    font-size: 66.96px;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.detailes {
+    font-size: 41.67px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+/* herbert section */
+
+#herbert {
+    height: 966px;
+    padding: 0px;
+
+}
+
+.bg-img-orange {
+    background-image: url(Image.png);
+    height: 966px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.herbert-descriptions {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 966px;
+    color: #e3e3e3;
+}
+
+.herbert-name {
+    font-size: 58.33px;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.herbert-detalies {
+    font-family: 'Nunito', sans-serif;
+    font-size: 50px;
+}
+
+/* subscribe section */
+
+#subscribe {
+    height: 592px;
+    background-image: url(Shape7.png), url(Shape6.png);
+    background-repeat: no-repeat, no-repeat;
+    background-position: left, right;
+    background-color: #e8631c;
+}
+
+.subscribe-description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 592px;
+    color: #e3e3e3;
+    text-align: center;
+}
+
+.subscribe {
+    font-size: 75px;
+    font-family: 'Oswald', sans-serif;
+    padding-bottom: 65px;
+    margin: 0px;
+
+
+}
+
+.subscribe-detailes {
+    font-size: 29.72px;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 58px;
+    margin: 0px;
+
+}
+
+#myemail {
+    width: 551px;
+    height: 66px;
+    border-radius: 5px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 30PX;
+
+
+}
+
+.SUBSCRIBE-button {
+    width: 223px;
+    height: 66px;
+    color: #e3e3e3;
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    background-color: #303030;
+    border: none;
+    border-radius: 4px;
+
+}
+
+/* footer section */
+
+#column ul li {
+    /* text-decoration: none; */
+    list-style: none;
+}
+
+#footer-section {
+    height: auto;
+    background-color: #303030;
+    color: #e3e3e3;
+}
+
+.footer-list-heading {
+    font-size: 33.33px;
+    font-family: 'Oswald', sans-serif;
+    padding-bottom: 33px;
+}
+
+/* .list-of-footer{
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+
+
+} */
+.footer-list-DETAILES {
+    font-size: 25px;
+    padding-bottom: 13px;
+}
+
+#row-adjust {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: center;
+    align-items: center; */
+    height: 478px;
+    text-align: left;
+}
+
+#column {
+    /* margin: 10px; */
+    padding-top: 120px;
+}
+
+#Musicology {
+    padding-left: 58px;
+    padding-right: 174px;
+    padding-bottom: 46px;
+}
+
+#About {
+    padding-right: 63px;
+}
+
+#SERVICES {
+    padding-right: 43px;
+}
+
+.fa-brands {
+    padding-right: 16px;
+    font-size: 18px;
+    padding-top: 11px;
+}
